@@ -2,7 +2,7 @@
 Made for lab report 03 for CSF 101 
 
 
-                                                                AIM : 
+                                                               ## AIM ## 
 
 The aim of this laboratory experiment is to develop a clear and foundational understanding of core coding and programming concepts in Python language which includes conditional statements, loops, control flows like break and continue, and the use of functions which is the most important for the reusability of the codes. The main objectve of this experiment is to make us understand and learn how to apply these concepts to solve a variety of problems in a logical and structured manner. It also prioritize writing small and most efficient code in terms of both space and time complexity by breaking programs into smaller parts and solving them into separate files. This approach not only improves readability but also helps in maintaining and reusing code effectively. By consistently working in different programming styles and structures via using different ways to solve the same problem, students gain a deeper understanding of how programs execute and interact. This lab also gives an strong foundation for developing more complex and real-world applications in the future.
 
@@ -50,7 +50,7 @@ The list of programmes present in this folder full of programmes are :
 
 
 
-                                        ## Brief Explanation of Each Task ##
+                                        ## BRIEF EXPLANATION OF EACH TASK ##
                                           
 **Part A: Conditional Statements :**
 
