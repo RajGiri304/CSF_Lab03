@@ -2,7 +2,9 @@
 Made for lab report 03 for CSF 101 
 
 
-AIM : The aim of this laboratory experiment is to develop a clear and foundational understanding of core coding and programming concepts in Python language which includes conditional statements, loops, control flows like break and continue, and the use of functions which is the most important for the reusability of the codes. The main objectve of this experiment is to make us understand and learn how to apply these concepts to solve a variety of problems in a logical and structured manner. It also prioritize writing small and most efficient code in terms of both space and time complexity by breaking programs into smaller parts and solving them into separate files. This approach not only improves readability but also helps in maintaining and reusing code effectively. By consistently working in different programming styles and structures via using different ways to solve the same problem, students gain a deeper understanding of how programs execute and interact. This lab also gives an strong foundation for developing more complex and real-world applications in the future.
+                                                                **AIM** : 
+
+The aim of this laboratory experiment is to develop a clear and foundational understanding of core coding and programming concepts in Python language which includes conditional statements, loops, control flows like break and continue, and the use of functions which is the most important for the reusability of the codes. The main objectve of this experiment is to make us understand and learn how to apply these concepts to solve a variety of problems in a logical and structured manner. It also prioritize writing small and most efficient code in terms of both space and time complexity by breaking programs into smaller parts and solving them into separate files. This approach not only improves readability but also helps in maintaining and reusing code effectively. By consistently working in different programming styles and structures via using different ways to solve the same problem, students gain a deeper understanding of how programs execute and interact. This lab also gives an strong foundation for developing more complex and real-world applications in the future.
 
 
 
@@ -50,23 +52,23 @@ The list of programmes present in this folder full of programmes are :
 
                                         ## Brief Explanation of Each Task ##
                                           
-Part A: Conditional Statements :
+**Part A: Conditional Statements :**
 
 This section focuses on decision-making using if, elif, and else statements. The programs demonstrate how conditions are evaluated to perform different actions based on user input. Tasks include number classification (positive/negative, even/odd), comparison operations, grading logic, and implementing a basic calculator using conditional branching.
 
-Part B: Loops (for and while) :
+**Part B: Loops (for and while) :**
 
 These programs introduce iteration using both for loops and while loops. The tasks involve repeating operations such as printing sequences, calculating sums, and generating multiplication tables. The difference between definite loops (for) and indefinite loops (while) is also illustrated through practical examples.
 
-Part C: Break and Continue :
+**Part C: Break and Continue :**
 
 This part demonstrates loop control statements. The break statement is used to terminate a loop prematurely when a condition is met, while continue skips a particular iteration and proceeds to the next one. These concepts are applied in number printing and searching operations.
-
-Part D: Functions :
+**
+Part D: Functions :**
 
 This section emphasizes modularity and code reuse by defining and calling functions. Programs include simple function definitions for printing messages, performing arithmetic operations, checking conditions, and computing factorials. It highlights how functions improve program structure and readability.
 
-Part E: Integrated Programs :
+**Part E: Integrated Programs :**
 
 The final section combines multiple concepts such as loops, conditionals, and functions to solve more complex problems. These programs simulate real-world scenarios like a menu-driven calculator and number analysis system, demonstrating how different programming constructs work together in a complete application.
 
